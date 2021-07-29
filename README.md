@@ -222,3 +222,63 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+
+# My Nitlify
+
+[Netlify]()
+
+
+
+
+## Number and name of feature:1 Deploy 
+
+## Estimate of time needed to complete:a quarter hour
+## Start time: 5:00 pm
+
+## Finish time: 5:30 pm
+
+## Actual time needed to complete:a quarter hour
+
+
+## Number and name of feature: 2 Profile page
+
+## Estimate of time needed to complete:1 hour
+## Start time: 5:30 pm
+
+## Finish time: 6:30 pm
+
+## Actual time needed to complete:1 hour
+
+
+
+## Number and name of feature: 3 Nav , Header and Footer
+
+## Estimate of time needed to complete: half an hour
+## Start time: 6:30 pm
+
+## Finish time: 7:00 pm
+
+## Actual time needed to complete: half an hour
+
+
+
+## Number and name of feature: 4 portofolio page
+
+## Estimate of time needed to complete:a quarter hour
+## Start time: 7:00 pm
+
+## Finish time: 7:30 pm
+
+## Actual time needed to complete:a quarter hour
+
+
+
+## Number and name of feature: 5 Personalize
+
+## Estimate of time needed to complete:a quarter hour 
+## Start time: 7:30 pm
+
+## Finish time: 8:00 pm
+
+## Actual time needed to complete:a quarter hour
