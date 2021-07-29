@@ -6,28 +6,6 @@
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/main/argon-design-system-react/argon-design-system-react.gif)
 
-Start your development with a Design System for [Bootstrap 4](https://getbootstrap.com/?ref=creativetim), [React](https://reactjs.org/?ref=creativetim) and [Reactstrap](https://reactstrap.github.io/?ref=creativetim). It is open source, free and it features many components that can help you create amazing websites.
-
-**Fully Coded Components**
-
-Argon Design System React is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
-
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Design System is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
-
-View [all components here](https://demos.creative-tim.com/argon-design-system-react/#/?ref=adsr-github-readme).
-
-**Complex Documentation**
-
-Each element is well presented in a very complex documentation. You can read more about the [idea behind this design system here](https://demos.creative-tim.com/argon-design-system-react/#/documentation/overview?ref=adsr-github-readme). You can [check the components here](https://demos.creative-tim.com/argon-design-system-react/#/documentation/alert?ref=adsr-github-readme) and [the foundation here](https://demos.creative-tim.com/argon-design-system-react/#/documentation/colors?ref=adsr-github-readme).
-
-**Example Pages**
-
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
-
-View [example pages here](https://demos.creative-tim.com/argon-design-system-react/#/landing-page?ref=adsr-github-readme).
-
 
 ## Table of Contents
 
@@ -68,13 +46,6 @@ View [example pages here](https://demos.creative-tim.com/argon-design-system-rea
 [View More](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme)
 
 
-## Quick start
-
-- Clone this template repo. 
-
-
-## Documentation
-The documentation for the Argon Design System React is hosted at our [website](https://demos.creative-tim.com/argon-design-system-react/#/documentation/overview).
 
 
 ## File Structure
@@ -164,55 +135,6 @@ Argon Design System React
             └── Register.js
 ```
 
-
-## Browser Support
-
-At present, we officially aim to support the last two versions of the following browsers:
-
-<img src="https://github.com/creativetimofficial/public-assets/blob/main/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/main/logos/opera-logo.png" width="64" height="64">
-
-
-
-## Resources
-- Demo: <https://demos.creative-tim.com/argon-design-system-react/#/?ref=adsr-github-readme>
-- Download Page: <https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-github-readme>
-- Documentation: <https://demos.creative-tim.com/argon-design-system-react/#/documentation/overview?ref=adsr-github-readme>
-- License Agreement: <https://www.creative-tim.com/license?ref=adsr-github-readme>
-- Support: <https://www.creative-tim.com/contact-us?ref=adsr-github-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/argon-design-system-react/issues?ref=creativetim)
-- **Dashboard:**
-
-| HTML | Angular | Vue | React | Laravel | NodeJS |
-| --- | --- | --- | --- | --- | --- |
-| [![Argon Dashboard  HTML](https://github.com/creativetimofficial/public-assets/blob/main/argon-dashboard/argon-dashboard.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard?ref=adsr-github-readme) | [![Argon Dashboard Angular](https://github.com/creativetimofficial/public-assets/blob/main/argon-dashboard-angular/argon-dashboard-angular.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-angular?ref=adsr-github-readme) | [![Vue Argon Dashboard](https://github.com/creativetimofficial/public-assets/blob/main/vue-argon-dashboard/vue-argon-dashboard.jpg?raw=true)](https://www.creative-tim.com/product/vue-argon-dashboard) | [![Argon Dashboard React](https://github.com/creativetimofficial/public-assets/blob/main/argon-dashboard-react/argon-dashboard-react.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-react?ref=adsr-github-readme) | [![Argon Dashboard Laravel](https://github.com/creativetimofficial/public-assets/blob/main/argon-dashboard-laravel/argon-dashboard-laravel.jpg?raw=true)](https://www.creative-tim.com/product/argon-dashboard-laravel?ref=adsr-github-readme) | [![Argon Dashboard NodeJS](https://raw.githubusercontent.com/creativetimofficial/public-assets/main/argon-dashboard-nodejs/argon-dashboard-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-nodejs?ref=adsr-github-readme) |
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Argon Design System React. Here are some advices for our users that want to report an issue:
-
-1. Make sure that you are using the latest version of the Argon Design System React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=adsr-github-readme).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
-
-## Licensing
-
-- Copyright 2020 Creative Tim (https://www.creative-tim.com/?ref=adsr-github-readme)
-
-- Licensed under MIT (https://github.com/creativetimofficial/argon-design-system-react/blob/main/LICENSE.md?ref=creativetim)
-
-## Useful Links
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w?ref=creativetim)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=adsr-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=adsr-github-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=adsr-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=adsr-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=adsr-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=adsr-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=adsr-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=adsr-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=adsr-github-readme)
-
 ### Social Media
 
 Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
@@ -226,59 +148,64 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
 # My Nitlify
 
-[Netlify]()
+[Netlify](https://6102f1f1b5a66e54599ae412--competent-allen-4f2fd5.netlify.app/)
 
 
 
+```
+ Number and name of feature:1 Deploy 
 
-## Number and name of feature:1 Deploy 
+ Estimate of time needed to complete:a quarter hour
 
-## Estimate of time needed to complete:a quarter hour
-## Start time: 5:00 pm
+ Start time: 5:00 pm
 
-## Finish time: 5:30 pm
+ Finish time: 5:30 pm
 
-## Actual time needed to complete:a quarter hour
+ Actual time needed to complete:a quarter hour
+```
 
+```
+ Number and name of feature: 2 Profile page
 
-## Number and name of feature: 2 Profile page
+ Estimate of time needed to complete:1 hour
+ Start time: 5:30 pm
 
-## Estimate of time needed to complete:1 hour
-## Start time: 5:30 pm
+ Finish time: 6:30 pm
 
-## Finish time: 6:30 pm
+ Actual time needed to complete:1 hour
 
-## Actual time needed to complete:1 hour
+```
 
+```
+ Number and name of feature: 3 Nav , Header and Footer
 
+ Estimate of time needed to complete: half an hour
 
-## Number and name of feature: 3 Nav , Header and Footer
+ Start time: 6:30 pm
 
-## Estimate of time needed to complete: half an hour
-## Start time: 6:30 pm
+ Finish time: 7:00 pm
 
-## Finish time: 7:00 pm
+ Actual time needed to complete: half an hour
+```
 
-## Actual time needed to complete: half an hour
+```
+ Number and name of feature: 4 portofolio page
 
+ Estimate of time needed to complete:a quarter hour
+ Start time: 7:00 pm
 
+ Finish time: 7:30 pm
 
-## Number and name of feature: 4 portofolio page
+ Actual time needed to complete:a quarter hour
+```
 
-## Estimate of time needed to complete:a quarter hour
-## Start time: 7:00 pm
+```
+ Number and name of feature: 5 Personalize
 
-## Finish time: 7:30 pm
+ Estimate of time needed to complete:a quarter hour 
+ Start time: 7:30 pm
 
-## Actual time needed to complete:a quarter hour
+ Finish time: 8:00 pm
 
-
-
-## Number and name of feature: 5 Personalize
-
-## Estimate of time needed to complete:a quarter hour 
-## Start time: 7:30 pm
-
-## Finish time: 8:00 pm
-
-## Actual time needed to complete:a quarter hour
+ Actual time needed to complete:a quarter hour
+```
